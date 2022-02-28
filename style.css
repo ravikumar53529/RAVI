@@ -1,0 +1,36 @@
+*{
+    margin: opx;
+    padding: 0px;
+}
+body{
+    background-color: blueviolet;
+}
+h1{
+    font-size: 100px;
+    background-color: aqua;
+    text-align: center;
+}
+#sub{
+    padding: 20px;
+    font-size: 50px;
+    border-radius: 50px;
+    background-color: brown;
+}
+#qtyBox{
+    padding: 20px;
+    font-size: 50px;
+    border-radius: 50px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+#add{
+    padding: 20px;
+    font-size: 50px;
+    border-radius: 50px;
+    background-color: brown;
+}
+div{
+    text-align: center;
+    margin: 150px;
+}
